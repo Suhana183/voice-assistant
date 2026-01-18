@@ -1,6 +1,6 @@
 A Python-based voice assistant that performs everyday tasks using natural voice commands. It enables hands-free interaction with the system by integrating speech recognition and text-to-speech technologies.
 
-* Features
+      * Features *
 
 Voice command recognition
 
@@ -16,14 +16,15 @@ Read clipboard content
 
 Runs in the background
 
- *Technologies Used
+ 
+       *Technologies Used *
 
-Python
+            Python
 
-speech_recognition
+        speech_recognition
 
-pyttsx3
+            pyttsx3
 
-wikipedia
+           wikipedia
 
-pyjokes
+           pyjokes
